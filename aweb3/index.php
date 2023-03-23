@@ -19,4 +19,4 @@ function Redirect($url, $permanent = false)
     exit();
 }
 
-Redirect('https://nikitagordievskiy.github.io/BWeb3/3task/index.html/', false);
+Redirect('http://gard.mybattletest.space/3task/index.html', false);
